@@ -1,0 +1,15 @@
+C:\чето пытаюсь\ClassPhone_Homework\ClassPhone_Homework\bin\Debug\net7.0\ClassPhone_Homework.exe
+C:\чето пытаюсь\ClassPhone_Homework\ClassPhone_Homework\bin\Debug\net7.0\ClassPhone_Homework.deps.json
+C:\чето пытаюсь\ClassPhone_Homework\ClassPhone_Homework\bin\Debug\net7.0\ClassPhone_Homework.runtimeconfig.json
+C:\чето пытаюсь\ClassPhone_Homework\ClassPhone_Homework\bin\Debug\net7.0\ClassPhone_Homework.dll
+C:\чето пытаюсь\ClassPhone_Homework\ClassPhone_Homework\bin\Debug\net7.0\ClassPhone_Homework.pdb
+C:\чето пытаюсь\ClassPhone_Homework\ClassPhone_Homework\obj\Debug\net7.0\ClassPhone_Homework.csproj.AssemblyReference.cache
+C:\чето пытаюсь\ClassPhone_Homework\ClassPhone_Homework\obj\Debug\net7.0\ClassPhone_Homework.GeneratedMSBuildEditorConfig.editorconfig
+C:\чето пытаюсь\ClassPhone_Homework\ClassPhone_Homework\obj\Debug\net7.0\ClassPhone_Homework.AssemblyInfoInputs.cache
+C:\чето пытаюсь\ClassPhone_Homework\ClassPhone_Homework\obj\Debug\net7.0\ClassPhone_Homework.AssemblyInfo.cs
+C:\чето пытаюсь\ClassPhone_Homework\ClassPhone_Homework\obj\Debug\net7.0\ClassPhone_Homework.csproj.CoreCompileInputs.cache
+C:\чето пытаюсь\ClassPhone_Homework\ClassPhone_Homework\obj\Debug\net7.0\ClassPhone_Homework.dll
+C:\чето пытаюсь\ClassPhone_Homework\ClassPhone_Homework\obj\Debug\net7.0\refint\ClassPhone_Homework.dll
+C:\чето пытаюсь\ClassPhone_Homework\ClassPhone_Homework\obj\Debug\net7.0\ClassPhone_Homework.pdb
+C:\чето пытаюсь\ClassPhone_Homework\ClassPhone_Homework\obj\Debug\net7.0\ClassPhone_Homework.genruntimeconfig.cache
+C:\чето пытаюсь\ClassPhone_Homework\ClassPhone_Homework\obj\Debug\net7.0\ref\ClassPhone_Homework.dll

@@ -1,0 +1,15 @@
+C:\чето пытаюсь\ClassDoctor_Homework\ClassDoctor_Homework\bin\Debug\net7.0\ClassDoctor_Homework.exe
+C:\чето пытаюсь\ClassDoctor_Homework\ClassDoctor_Homework\bin\Debug\net7.0\ClassDoctor_Homework.deps.json
+C:\чето пытаюсь\ClassDoctor_Homework\ClassDoctor_Homework\bin\Debug\net7.0\ClassDoctor_Homework.runtimeconfig.json
+C:\чето пытаюсь\ClassDoctor_Homework\ClassDoctor_Homework\bin\Debug\net7.0\ClassDoctor_Homework.dll
+C:\чето пытаюсь\ClassDoctor_Homework\ClassDoctor_Homework\bin\Debug\net7.0\ClassDoctor_Homework.pdb
+C:\чето пытаюсь\ClassDoctor_Homework\ClassDoctor_Homework\obj\Debug\net7.0\ClassDoctor_Homework.csproj.AssemblyReference.cache
+C:\чето пытаюсь\ClassDoctor_Homework\ClassDoctor_Homework\obj\Debug\net7.0\ClassDoctor_Homework.GeneratedMSBuildEditorConfig.editorconfig
+C:\чето пытаюсь\ClassDoctor_Homework\ClassDoctor_Homework\obj\Debug\net7.0\ClassDoctor_Homework.AssemblyInfoInputs.cache
+C:\чето пытаюсь\ClassDoctor_Homework\ClassDoctor_Homework\obj\Debug\net7.0\ClassDoctor_Homework.AssemblyInfo.cs
+C:\чето пытаюсь\ClassDoctor_Homework\ClassDoctor_Homework\obj\Debug\net7.0\ClassDoctor_Homework.csproj.CoreCompileInputs.cache
+C:\чето пытаюсь\ClassDoctor_Homework\ClassDoctor_Homework\obj\Debug\net7.0\ClassDoctor_Homework.dll
+C:\чето пытаюсь\ClassDoctor_Homework\ClassDoctor_Homework\obj\Debug\net7.0\refint\ClassDoctor_Homework.dll
+C:\чето пытаюсь\ClassDoctor_Homework\ClassDoctor_Homework\obj\Debug\net7.0\ClassDoctor_Homework.pdb
+C:\чето пытаюсь\ClassDoctor_Homework\ClassDoctor_Homework\obj\Debug\net7.0\ClassDoctor_Homework.genruntimeconfig.cache
+C:\чето пытаюсь\ClassDoctor_Homework\ClassDoctor_Homework\obj\Debug\net7.0\ref\ClassDoctor_Homework.dll
