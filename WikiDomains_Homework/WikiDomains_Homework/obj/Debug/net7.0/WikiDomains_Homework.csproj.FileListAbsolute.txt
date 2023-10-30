@@ -1,0 +1,15 @@
+C:\чето пытаюсь\WikiDomains_Homework\WikiDomains_Homework\bin\Debug\net7.0\WikiDomains_Homework.exe
+C:\чето пытаюсь\WikiDomains_Homework\WikiDomains_Homework\bin\Debug\net7.0\WikiDomains_Homework.deps.json
+C:\чето пытаюсь\WikiDomains_Homework\WikiDomains_Homework\bin\Debug\net7.0\WikiDomains_Homework.runtimeconfig.json
+C:\чето пытаюсь\WikiDomains_Homework\WikiDomains_Homework\bin\Debug\net7.0\WikiDomains_Homework.dll
+C:\чето пытаюсь\WikiDomains_Homework\WikiDomains_Homework\bin\Debug\net7.0\WikiDomains_Homework.pdb
+C:\чето пытаюсь\WikiDomains_Homework\WikiDomains_Homework\obj\Debug\net7.0\WikiDomains_Homework.csproj.AssemblyReference.cache
+C:\чето пытаюсь\WikiDomains_Homework\WikiDomains_Homework\obj\Debug\net7.0\WikiDomains_Homework.GeneratedMSBuildEditorConfig.editorconfig
+C:\чето пытаюсь\WikiDomains_Homework\WikiDomains_Homework\obj\Debug\net7.0\WikiDomains_Homework.AssemblyInfoInputs.cache
+C:\чето пытаюсь\WikiDomains_Homework\WikiDomains_Homework\obj\Debug\net7.0\WikiDomains_Homework.AssemblyInfo.cs
+C:\чето пытаюсь\WikiDomains_Homework\WikiDomains_Homework\obj\Debug\net7.0\WikiDomains_Homework.csproj.CoreCompileInputs.cache
+C:\чето пытаюсь\WikiDomains_Homework\WikiDomains_Homework\obj\Debug\net7.0\WikiDomains_Homework.dll
+C:\чето пытаюсь\WikiDomains_Homework\WikiDomains_Homework\obj\Debug\net7.0\refint\WikiDomains_Homework.dll
+C:\чето пытаюсь\WikiDomains_Homework\WikiDomains_Homework\obj\Debug\net7.0\WikiDomains_Homework.pdb
+C:\чето пытаюсь\WikiDomains_Homework\WikiDomains_Homework\obj\Debug\net7.0\WikiDomains_Homework.genruntimeconfig.cache
+C:\чето пытаюсь\WikiDomains_Homework\WikiDomains_Homework\obj\Debug\net7.0\ref\WikiDomains_Homework.dll
